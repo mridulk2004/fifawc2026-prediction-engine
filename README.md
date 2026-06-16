@@ -49,15 +49,15 @@ A total of **10,000 tournament simulations** were run to estimate championship p
 
 ### Forecast Dashboard
 
-![Forecast Dashboard](charts/01_forecast_dashboard_hero.svg)
+![Forecast Dashboard](charts/01_forecast_dashboard_hero.png)
 
 ### Championship Favorites
 
-![Championship Favorites](charts/02_championship_favorites_ranking.svg)
+![Championship Favorites](charts/02_championship_favorites_ranking.png)
 
 ### Tournament Progression Analysis
 
-![Tournament Progression](charts/03_tournament_progression_analysis.svg)
+![Tournament Progression](charts/03_tournament_progression_analysis.png)
 
 ### Power vs Conversion Analysis
 

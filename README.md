@@ -53,23 +53,23 @@ A total of **10,000 tournament simulations** were run to estimate championship p
 
 ### Championship Favorites
 
-![Championship Favorites](charts/02_championship_favorites_ranking.png)
+![Championship Favorites](Data/charts/02_championship_favorites_ranking.png)
 
 ### Tournament Progression Analysis
 
-![Tournament Progression](charts/03_tournament_progression_analysis.png)
+![Tournament Progression](Data/charts/03_tournament_progression_analysis.png)
 
 ### Power vs Conversion Analysis
 
-![Power vs Conversion](charts/04_power_vs_conversion_scatter.png)
+![Power vs Conversion](Data/charts/04_power_vs_conversion_scatter.png)
 
 ### Historical Pedigree vs Forecast
 
-![Historical Pedigree](charts/05_historical_pedigree_vs_forecast.png)
+![Historical Pedigree](Data/charts/05_historical_pedigree_vs_forecast.png)
 
 ### Most Likely Final Matchups
 
-![Most Likely Final Matchups](charts/06_most_likely_final_matchups_arc.png)
+![Most Likely Final Matchups](Data/charts/06_most_likely_final_matchups_arc.png)
 
 ---
 
